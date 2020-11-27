@@ -10,8 +10,8 @@
 [+] Git setup and first commit
 [+] install Laravel Mix
     - setup js and scss
-[-] Install tailwind css
-[-] Create Home Page using Html and CSS
+[+] Install tailwind css
+[+] Create Home Page using Html and CSS
 [-] Create Cart Page
     - order summary Page
     - Emoty cart section
