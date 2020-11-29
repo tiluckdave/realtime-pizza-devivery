@@ -48,6 +48,9 @@ section.hero{
     &:hover{
         background: $primary-hover;
     }
+    &:focus{
+        outline: none;
+    }
 }
 
 section.cart{
@@ -70,4 +73,12 @@ section.login, section.register{
 .noty_theme__mint {
     border-radius: 50px !important;
     padding-left: 8px !important;
+}
+a.link{
+    color: $primary;
+}
+input{
+    &:focus{
+        outline: none;
+    }
 }
