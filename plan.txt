@@ -37,7 +37,7 @@
 [+] Place order functionality
 [+] Show all my orders on custormer orders page
 [+] Show orders on admin orders page
-[-] Change order status
+[+] Change order status
 [-] Create Orders single page with status
 [-] Order tracker
     [-] Socket connection
