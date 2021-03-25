@@ -78,8 +78,6 @@ function updateStatus(order) {
 }
 
 updateStatus(order)
-
-
 // Socket
 let socket = io()
 
